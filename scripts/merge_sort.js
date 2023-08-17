@@ -60,9 +60,3 @@ function merge_partition(start,end)
     }
 }
 
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    E-MAIL:-    tummala.kethan@gmail.com
-    *****************
-*/
