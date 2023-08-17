@@ -67,9 +67,3 @@ function quick_sort (start, end )
     }
  }
 
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    E-MAIL:-    tummala.kethan@gmail.com
-    *****************
-*/
